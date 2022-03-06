@@ -8,8 +8,8 @@ Frontend is build using react-redux.
 
 <h3> Features</h3>
 
-<p>1. Sign in to get stream creation rights </br>
-  2. Autheticated users can create streams and edit stream details </br>
-  3. Non signed in and signed users can view streams if that stream is currently being streamed.</br>
-  </p>
-  
+<p>1. Sign in to get stream creation rights </p>
+![alt text](https://github.com/archi14/surge/blob/master/signedOut.png "Signed out")
+<p>2. Autheticated users can create streams and edit stream details </p>
+![alt text](https://github.com/archi14/surge/blob/master/signedIn.png "Signed in")
+<p> Non signed in and signed users can view streams if that stream is currently being streamed.</p>
